@@ -1,4 +1,4 @@
-# newbpay-for-whmcs
+# newebpay-for-whmcs
 Newebpay (蓝新金流) WHMCS 支付接口插件。
 
 该插件允许您在 WHMCS 对接 Newebpay 进行收款。
